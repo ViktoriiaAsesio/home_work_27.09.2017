@@ -1,0 +1,90 @@
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#flower {
+
+    width: 800px;
+    height: 800px;
+    float: right;
+margin: 20px;
+}
+
+
+
+/*topic1*/
+.info1
+{text-align: left;
+    font-style: italic;
+    font-size: 100px;
+    margin: 80px;
+    padding-top: 80px;
+
+}
+.info2 {
+    text-align: left;
+    font-style: italic;
+    font-size: 100px;
+    margin: 60px;
+    margin-left: 0px;
+    padding-top: 80px;
+}
+
+#tesla img {
+    width: 600px;
+    margin: 20px;
+
+
+}
+#image1 {float: left;  }
+#image2 {float: right;
+    clear: left;}
+#about_tesla {
+    color: green;
+    font-style: italic;
+    width: auto ;
+    height: auto;
+
+
+}
+#self_driving {clear: left;
+
+}
+#subject
+{color: aqua;
+font-size: 20px;
+margin: 20px;
+text-align: center;
+background-color: black;}
+
+ul {margin: 0;
+    padding: 60px;
+    font-size: 20px;
+    font-style: oblique;
+
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+
+}
+
+.ulwithmargin li {
+    font-style: inherit; color: red;
+    margin: 50px;
+
+}
+.secondcolum li {
+
+
+
+    color: blue;
+    margin: 50px;
+}
+.thirdcolum li {
+margin: 50px;
+font-style: oblique;
+text-decoration: underline;}
+
+
